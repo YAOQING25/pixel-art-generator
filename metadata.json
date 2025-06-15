@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pixel Art Generator",
+  "description": "A web application that uses Imagen API to generate pixel art from text prompts. Enter a description and see it transformed into unique pixel art.",
+  "requestFramePermissions": []
+}
